@@ -1,0 +1,5 @@
+import { createClient } from "@supabase/supabase-js";
+
+const supabaseUrl = 'https://inqjbgvohbioletfhmna.supabase.co'
+export const supabase = createClient(supabaseUrl, "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlucWpiZ3ZvaGJpb2xldGZobW5hIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDkwOTk1MjIsImV4cCI6MjAyNDY3NTUyMn0.YxTqdgTdgZvv5noMygURCqfyRwZvce1PrZLS52l4eT8");
+export const supabaseAdmin = createClient(supabaseUrl, "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlucWpiZ3ZvaGJpb2xldGZobW5hIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcwOTA5OTUyMiwiZXhwIjoyMDI0Njc1NTIyfQ.s1cEXWTFlr5-GU87cp7l6DsbNabM_8Ded9Dkh23uM78");

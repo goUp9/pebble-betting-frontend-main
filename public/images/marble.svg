@@ -1,0 +1,49 @@
+<svg width="48" height="49" viewBox="0 0 48 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="49" fill="#F5F5F5"/>
+<g id="Sedona Rooms - Light Mode">
+<path d="M-658 -966C-658 -967.105 -657.105 -968 -656 -968H14621C14622.1 -968 14623 -967.105 14623 -966V1292C14623 1293.1 14622.1 1294 14621 1294H-656C-657.104 1294 -658 1293.1 -658 1292V-966Z" fill="#404040"/>
+<path d="M-656 -967H14621V-969H-656V-967ZM14622 -966V1292H14624V-966H14622ZM14621 1293H-656V1295H14621V1293ZM-657 1292V-966H-659V1292H-657ZM-656 1293C-656.552 1293 -657 1292.55 -657 1292H-659C-659 1293.66 -657.657 1295 -656 1295V1293ZM14622 1292C14622 1292.55 14621.6 1293 14621 1293V1295C14622.7 1295 14624 1293.66 14624 1292H14622ZM14621 -967C14621.6 -967 14622 -966.552 14622 -966H14624C14624 -967.657 14622.7 -969 14621 -969V-967ZM-656 -969C-657.657 -969 -659 -967.657 -659 -966H-657C-657 -966.552 -656.552 -967 -656 -967V-969Z" fill="black" fill-opacity="0.1"/>
+<g id="Frame">
+<rect width="1440" height="1170" transform="translate(-27 -422)" fill="#1C2936"/>
+<g id="Group 101197">
+<g id="div.css-1rqoxtp">
+<path d="M-27 -342H242V428H-27V-342Z" fill="#16202B" fill-opacity="0.4"/>
+<path d="M241.85 -342V428H242.15V-342H241.85Z" fill="#68758C" fill-opacity="0.25"/>
+</g>
+<g id="Component 18">
+<g id="Marble">
+<rect x="-10" y="-15.3533" width="241" height="80" rx="12" fill="#CBD7FF" fill-opacity="0.01"/>
+<rect x="-10" y="-15.3533" width="241" height="80" rx="12" stroke="black" stroke-width="0.1"/>
+<g id="Group 100934">
+<g id="Group 100910">
+<path id="Ellipse 15" d="M46.7516 24.6467C46.7516 37.2121 36.5654 47.3984 24 47.3984C11.4346 47.3984 1.24835 37.2121 1.24835 24.6467C1.24835 12.0813 11.4346 1.89508 24 1.89508C36.5654 1.89508 46.7516 12.0813 46.7516 24.6467Z" fill="url(#paint0_radial_0_1)" stroke="#1814F1" stroke-width="2.4967"/>
+<g id="Ellipse 34" filter="url(#filter0_f_0_1)">
+<ellipse cx="35.0879" cy="14.1319" rx="8.31814" ry="3.94017" transform="rotate(45.2321 35.0879 14.1319)" fill="white"/>
+</g>
+<g id="Ellipse 35" opacity="0.5" filter="url(#filter1_f_0_1)">
+<ellipse cx="9.95499" cy="37.0419" rx="2.63798" ry="1.24957" transform="rotate(45.2321 9.95499 37.0419)" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_0_1" x="25.5938" y="4.60535" width="18.9883" height="19.0531" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="1.5" result="effect1_foregroundBlur_0_1"/>
+</filter>
+<filter id="filter1_f_0_1" x="6.69453" y="33.7722" width="6.52109" height="6.53953" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.6" result="effect1_foregroundBlur_0_1"/>
+</filter>
+<radialGradient id="paint0_radial_0_1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(24 24.6467) rotate(90) scale(16.5)">
+<stop stop-color="#1814F1"/>
+<stop offset="0.805" stop-color="#1814F1"/>
+</radialGradient>
+</defs>
+</svg>
